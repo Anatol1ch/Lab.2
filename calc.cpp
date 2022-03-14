@@ -15,15 +15,19 @@ int main() {
   switch(op) {
 
     case 1:     // code
+	result = a + b; 
     break;
 
     case 2:    // code
+	result = a - b;
     break;
 
     case 3:     // code
+	result = a * b;
     break;
 
     case 4:     // code
+	result = a / b;
     break;
 
   }
